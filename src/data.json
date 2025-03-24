@@ -1,0 +1,19 @@
+{
+    "employee":[
+        {
+            "id": "123",
+            "name": "Hari",
+            "city": "kpm"
+        },
+        {
+            "id": "456",
+            "name": "kumar",
+            "city": "erode"
+        },
+        {
+            "id": "789",
+            "name": "selva",
+            "city": "salem"
+        }
+    ]
+}
